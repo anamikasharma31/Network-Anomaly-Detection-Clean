@@ -1,0 +1,15 @@
+# Ignore dataset files
+data/archive/
+*.gz
+*.data
+*.csv
+
+# Ignore virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore IDE files
+.idea/
+
+
